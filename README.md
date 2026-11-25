@@ -1,4 +1,4 @@
-# TacoGO – Restaurant Performance & Business Analysis Report (2014 - 2015) 
+# TacoGO – Restaurant Performance & Business Analysis Report (2024 - 2025) 
 
 
 ## Executive Summary
@@ -9,7 +9,6 @@ Using Microsoft Power BI, the project transforms restaurant operational data int
 
 The analysis includes year-over-year comparisons to help stakeholders understand changes in key performance indicators and identify areas that may require business attention.
 
-Specific numerical findings and recommendations will be incorporated using the actual dashboard results.
 
 ## Business Context
 

@@ -1,4 +1,4 @@
-# TacoGO – Restaurant Performance & Business Analysis Report
+# TacoGO – Restaurant Performance & Business Analysis Report (2014 - 2015) 
 
 
 ## Executive Summary
@@ -55,11 +55,11 @@ The analysis covers a two-year period, allowing business performance to be compa
 ## Dashboard
 
 ### Link to Power BI Report
-Click the link to access the full Power BI report:[CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9) 
+Click the link to access the full Power BI report: [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9) 
 
 ## Key Findings
 
-The dashboard was developed to investigate:
+### The dashboard was developed to investigate:
 
 - Total revenue generated across the two-year period.
 - Total orders recorded.
@@ -70,7 +70,6 @@ The dashboard was developed to investigate:
 - Customer tipping patterns.
 - Taco size and customer ordering preferences.
 
-Specific values, increases, decreases, and other discoveries should be added from the actual dashboard results.
 
 ## Data Cleaning and Transformation
 
@@ -147,14 +146,14 @@ The interactive Power BI dashboard supports business performance monitoring and 
 
 ## Project Information
 
-Project: TacoGO – Restaurant Performance & Business Analysis
+**Project:** TacoGO – Restaurant Performance & Business Analysis
 
-Industry: Food & Restaurant Services
+**Industry:** Food & Restaurant Services
 
-Role: Junior Data Analyst
+**Role:** Junior Data Analyst
 
-Tools: Microsoft Power BI, Power Query, DAX
+**Tools:** Microsoft Power BI, Power Query, DAX
 
-Analysis Period: Two Years
+Analysis Period: two years 
 
-Project Category: Business Intelligence & Data Analytics
+**Project Category:** Business Intelligence & Data Analytics

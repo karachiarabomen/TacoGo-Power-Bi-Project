@@ -57,7 +57,11 @@ The dataset supports analysis across the following areas:
 
 The analysis covers a two-year period, allowing business performance to be compared across both years.
 
-5. Key Findings
+## Key Findings
+## Dashboard
+
+### Link to Power BI Report
+Click the link to access the full Power BI report: [Click here](https://app.powerbi.com/viewr=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9) 
 
 The dashboard was developed to investigate:
 

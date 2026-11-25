@@ -130,7 +130,7 @@ The following areas should be considered based on the actual analysis findings:
 
 Recommendations should be prioritised based on the actual results of the analysis.
 
-9. Tools Used
+## Tools Used
 
 Microsoft Power BI: Used to develop interactive dashboards and visualize restaurant performance.
 
@@ -138,7 +138,7 @@ Power Query: Used for data preparation and transformation.
 
 DAX: Used to create calculated measures, KPIs, and year-over-year performance indicators.
 
-10. Conclusion
+## Conclusion
 
 The TacoGO Restaurant Performance and Business Analysis project demonstrates how data analytics can help restaurant businesses monitor performance, understand customer ordering behaviour, and evaluate operational efficiency.
 
@@ -146,7 +146,7 @@ Through the analysis of revenue, order volumes, delivery duration, delivery dist
 
 The interactive Power BI dashboard supports business performance monitoring and provides insights that can inform operational planning and strategic decision-making.
 
-11. Project Information
+## Project Information
 
 Project: TacoGO – Restaurant Performance & Business Analysis
 

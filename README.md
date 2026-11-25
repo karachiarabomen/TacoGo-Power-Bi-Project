@@ -1,4 +1,6 @@
 # TacoGO – Restaurant Performance & Business Analysis Report (Jan 2024 - Dec 2025) 
+![TacoGo-header](TacoGo-header.png) 
+
 
 
 ## Executive Summary

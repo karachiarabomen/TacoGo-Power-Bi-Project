@@ -36,7 +36,7 @@ The analysis aims to answer the following business questions:
 
    [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9) 
 
-4. Data Overview
+   ## Data Overview
 
 The project uses restaurant operational data containing information about revenue, orders, delivery activities, customer tips, and taco ordering patterns.
 
@@ -52,11 +52,13 @@ The dataset supports analysis across the following areas:
 
 The analysis covers a two-year period, allowing business performance to be compared across both years.
 
-## Key Findings
+
 ## Dashboard
 
 ### Link to Power BI Report
 Click the link to access the full Power BI report: [Click here](https://app.powerbi.com/viewr=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9) 
+
+## Key Findings
 
 The dashboard was developed to investigate:
 
@@ -71,11 +73,11 @@ The dashboard was developed to investigate:
 
 Specific values, increases, decreases, and other discoveries should be added from the actual dashboard results.
 
-6. Data Cleaning and Transformation
+## Data Cleaning and Transformation
 
 Data preparation was an important part of developing the TacoGO dashboard.
 
-The preparation and transformation process involved:
+### The preparation and transformation process involved:
 
 - Reviewing the restaurant dataset and its structure.
 - Preparing relevant fields for analysis.
@@ -85,37 +87,37 @@ The preparation and transformation process involved:
 - Developing calculated measures for key performance indicators.
 - Structuring the data for interactive dashboard reporting.
 
-7. Detailed Findings & Analysis
+## Detailed Findings & Analysis
 
-7.1 Revenue Performance Analysis
+### Revenue Performance Analysis
 
 Examined total restaurant revenue to understand business income and evaluate revenue performance across the analysis period.
 
-7.2 Order Performance Analysis
+### Order Performance Analysis
 
 Analysed total order volumes to understand restaurant activity and monitor changes in customer ordering behaviour.
 
-7.3 Year-over-Year Performance Analysis
+### Year-over-Year Performance Analysis
 
 Compared revenue and order performance across the two years using percentage change (YoY) to identify business growth or decline.
 
-7.4 Delivery Duration Analysis
+### Delivery Duration Analysis
 
 Evaluated average delivery duration to understand delivery efficiency and monitor the time taken to complete customer deliveries.
 
-7.5 Delivery Distance Analysis
+### Delivery Distance Analysis
 
 Examined average delivery distance to understand the geographical scope of delivery operations and assess potential operational considerations.
 
-7.6 Customer Tips Analysis
+### Customer Tips Analysis
 
 Analysed customer tipping patterns to understand additional customer contributions associated with restaurant deliveries.
 
-7.7 Taco Size and Ordering Pattern Analysis
+### Taco Size and Ordering Pattern Analysis
 
 Examined taco sizes and ordering preferences to understand customer purchasing patterns and identify popular product choices.
 
-8. Recommendations
+## Recommendations
 
 The following areas should be considered based on the actual analysis findings:
 

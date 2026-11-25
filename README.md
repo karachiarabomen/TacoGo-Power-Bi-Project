@@ -1,12 +1,7 @@
-# TacoGo-Power-Bi-Project
+# TacoGO – Restaurant Performance & Business Analysis Report
 
-  ## TacoGO – Restaurant Performance & Business Analysis Report
 
-Industry: Food & Restaurant Services
-Role: Junior Data Analyst
-Tools: Microsoft Power BI, Power Query, DAX
-
-1. Executive Summary
+## Executive Summary
 
 This project focuses on analysing TacoGO's restaurant business performance over a two-year period, with particular attention to revenue generation, order trends, delivery operations, and customer ordering behaviour.
 
@@ -16,7 +11,7 @@ The analysis includes year-over-year comparisons to help stakeholders understand
 
 Specific numerical findings and recommendations will be incorporated using the actual dashboard results.
 
-2. Business Context
+## Business Context
 
 Restaurant businesses depend on effective sales monitoring, efficient delivery operations, and an understanding of customer purchasing behaviour to maintain profitability and improve service delivery.
 

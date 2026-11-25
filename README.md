@@ -125,15 +125,14 @@ The following areas should be considered based on the actual analysis findings:
 - Product Strategy: Use taco size and ordering patterns to guide product planning and inventory decisions.
 - Performance Monitoring: Continue monitoring year-over-year revenue and order changes to identify emerging business trends.
 
-Recommendations should be prioritised based on the actual results of the analysis.
 
 ## Tools Used
 
-Microsoft Power BI: Used to develop interactive dashboards and visualize restaurant performance.
+**Microsoft Power BI:** Used to develop interactive dashboards and visualize restaurant performance.
 
-Power Query: Used for data preparation and transformation.
+**Power Query:** Used for data preparation and transformation.
 
-DAX: Used to create calculated measures, KPIs, and year-over-year performance indicators.
+**DAX:** Used to create calculated measures, KPIs, and year-over-year performance indicators.
 
 ## Conclusion
 
@@ -153,6 +152,6 @@ The interactive Power BI dashboard supports business performance monitoring and 
 
 **Tools:** Microsoft Power BI, Power Query, DAX
 
-Analysis Period: two years 
+**Analysis Period**: two years 
 
 **Project Category:** Business Intelligence & Data Analytics

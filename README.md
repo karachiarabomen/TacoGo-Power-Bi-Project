@@ -39,6 +39,8 @@ The analysis aims to answer the following business questions:
 7. What taco sizes do customers order, and what patterns can be identified?
 8. What changes in business performance can be observed across the two years?
 
+   [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ) 
+
 4. Data Overview
 
 The project uses restaurant operational data containing information about revenue, orders, delivery activities, customer tips, and taco ordering patterns.

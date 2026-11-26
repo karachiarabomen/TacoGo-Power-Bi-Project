@@ -3,6 +3,7 @@
 
 ![TacoGo-header](TacoGo-header1.png) 
 
+
 ## Executive Summary
 
 - This report presents an analysis of TacoGo's delivery performance, restaurant operations, customer orders, revenue, delivery duration, distance, and tips using a Power BI dashboard.
@@ -49,7 +50,9 @@ The dashboard includes a Home page for overall performance and a More Insight pa
 
 ![TacoGo-image](TacoGO-image.png)
 
+## More insight view
 
+![Tacogo-insight](TacoGO-Insight.png)
 
 
 ### Link to Power BI Report

@@ -194,19 +194,12 @@ Based on the dashboard findings:
 
 ## Conclusion
 
-The TacoGO Restaurant Performance and Business Analysis project demonstrates how data analytics can help restaurant businesses monitor performance, understand customer ordering behaviour, and evaluate operational efficiency.
+The TacoGo Delivery Performance Analysis provides insight into restaurant performance, customer preferences, revenue generation, and delivery operations.
 
-Through the analysis of revenue, order volumes, delivery duration, delivery distance, customer tips, and taco size preferences, the project provides a structured overview of restaurant performance across two years.
+The dashboard shows positive year-over-year growth in orders, revenue, and tips. Grande Tacos leads in order volume, while Casa del Taco demonstrates the strongest growth across key business indicators.
 
-The interactive Power BI dashboard supports business performance monitoring and provides insights that can inform operational planning and strategic decision-making.
+The findings provide a foundation for improving restaurant performance, monitoring delivery efficiency, and making data-driven decisions to support TacoGo's continued growth.
 
-## Project Information
-
-**Project:** TacoGO – Restaurant Performance & Business Analysis
-
-**Industry:** Food & Restaurant Services
-
-**Role:** Junior Data Analyst
 
 **Tools:** Microsoft Power BI, Power Query, DAX
 

@@ -62,70 +62,126 @@ Click the link to access the full Power BI report: [CLICK HERE](https://app.powe
 
 ### The dashboard was developed to investigate:
 
-- Total revenue generated across the two-year period.
-- Total orders recorded.
-- Year-over-year revenue changes.
-- Year-over-year order changes.
-- Average delivery duration.
-- Average delivery distance.
-- Customer tipping patterns.
-- Taco size and customer ordering preferences.
+Overall Business Performance
+
+- Total Orders: 295
+- Total Revenue: approximately $2K as displayed
+- Average Delivery Duration: 50.13 minutes
+- Average Delivery Distance: 12.91 km
+- Total Tips Collected: $550
+
+Year-over-Year Performance
+
+Metric| YOY Change
+Orders| +43.2%
+Revenue| +42.5%
+Delivery Duration| -0.3%
+Distance| +0.3%
+Tips| +46.8%
+
+Orders, revenue, and tips recorded positive year-over-year growth.
+
+Restaurant Performance
+
+Restaurant| Orders
+Grande Tacos| 106
+Casa del Taco| 104
+El Taco Loco| 85
+
+Grande Tacos recorded the highest number of orders, closely followed by Casa del Taco. El Taco Loco recorded the lowest order volume among the three restaurants.
+
+Taco Type Distribution
+
+Taco Type| Share
+Chicken Taco| 26%
+Fish Taco| 22%
+Pork Taco| 18%
+Beef Taco| 17%
+Veggie Taco| 17%
+
+Chicken Taco had the largest share of orders, while Veggie Taco and Beef Taco recorded the smallest shares.
+
+Revenue by Taco Size
+
+- Large tacos generated approximately $1,104.
+- Regular tacos generated approximately $996.
+
+Large tacos contributed more revenue than regular tacos.
+
 
 
 ## Data Cleaning and Transformation
 
-Data preparation was an important part of developing the TacoGO dashboard.
+### The preparation and transformation process involve
 
-### The preparation and transformation process involved:
+The analysis uses business categories such as restaurant name, taco type, taco size, city, month, and year to support comparisons.
 
-- Reviewing the restaurant dataset and its structure.
-- Preparing relevant fields for analysis.
-- Organising order and delivery information.
-- Ensuring consistency in measurement units, including kilometres (km) for distance.
-- Preparing data for year-over-year comparisons.
-- Developing calculated measures for key performance indicators.
-- Structuring the data for interactive dashboard reporting.
+The dashboard also presents calculated performance indicators, including:
+
+- Total orders
+- Total revenue
+- Average delivery duration
+- Average delivery distance
+- Total tips
+- Year-over-year percentage changes
+
 
 ## Detailed Findings & Analysis
 
-### Revenue Performance Analysis
+Restaurant Performance Analysis
 
-Examined total restaurant revenue to understand business income and evaluate revenue performance across the analysis period.
+Grande Tacos recorded 106 orders, making it the highest-performing restaurant by order volume. Casa del Taco followed closely with 104 orders, while El Taco Loco recorded 85 orders.
 
-### Order Performance Analysis
+The More Insight page provides additional year-over-year comparisons:
 
-Analysed total order volumes to understand restaurant activity and monitor changes in customer ordering behaviour.
+Restaurant| YOY Orders| YOY Revenue| YOY Tips
+Grande Tacos| +32.5%| +36.2%| +40.4%
+El Taco Loco| +46.6%| +42.7%| +46.0%
+Casa del Taco| +52.9%| +49.3%| +55.1%
 
-### Year-over-Year Performance Analysis
+Casa del Taco recorded the strongest growth across orders, revenue, and tips among the three restaurants.
 
-Compared revenue and order performance across the two years using percentage change (YoY) to identify business growth or decline.
+Delivery Performance by City
 
-### Delivery Duration Analysis
+City| Average Delivery Duration
+San Diego| 50.05 minutes
+Phoenix| 49.54 minutes
+San Jose| 48.45 minutes
+San Antonio| 41.50 minutes
 
-Evaluated average delivery duration to understand delivery efficiency and monitor the time taken to complete customer deliveries.
+San Antonio recorded the shortest average delivery duration among the cities displayed, while San Diego recorded the longest.
 
-### Delivery Distance Analysis
+Revenue and Monthly Trends
 
-Examined average delivery distance to understand the geographical scope of delivery operations and assess potential operational considerations.
+The monthly revenue chart shows:
 
-### Customer Tips Analysis
+- January: $223
+- March: $271
+- May: $210
+- July: $189
+- August: $196
 
-Analysed customer tipping patterns to understand additional customer contributions associated with restaurant deliveries.
+March recorded the highest revenue among the months displayed in the chart.
 
-### Taco Size and Ordering Pattern Analysis
+The monthly order trend shows fluctuations over time, with a noticeable decline during the later part of the displayed period.
 
-Examined taco sizes and ordering preferences to understand customer purchasing patterns and identify popular product choices.
+Customer Tips
+
+Total tips collected reached $550, with year-over-year tips increasing by 46.8%.
+
+The tips trend page compares tip performance over time, providing a view of how customer tipping behaviour changes across the displayed years.
+
 
 ## Recommendations
 
-The following areas should be considered based on the actual analysis findings:
+Based on the dashboard findings:
+- Investigate the practices contributing to Casa del Taco's strong year-over-year growth and consider applying successful strategies across other locations.
+- Review El Taco Loco's lower order count and identify opportunities to increase customer demand.
+- Use customer preference data to guide promotions and menu planning, particularly for Chicken Taco.
+- Examine the factors contributing to longer delivery durations in San Diego and Phoenix.
+- Track declining order periods and investigate possible causes of reduced demand.
+- Continue monitoring tips and delivery performance as indicators of customer experience.
 
-- Revenue Growth: Investigate revenue trends and develop strategies to improve sales performance.
-- Order Management: Monitor order volumes to support effective staffing and resource allocation.
-- Delivery Efficiency: Review delivery duration and distance to identify opportunities for improving service delivery.
-- Customer Experience: Monitor delivery performance and customer tipping patterns to better understand customer satisfaction indicators.
-- Product Strategy: Use taco size and ordering patterns to guide product planning and inventory decisions.
-- Performance Monitoring: Continue monitoring year-over-year revenue and order changes to identify emerging business trends.
 
 
 ## Tools Used

@@ -1,7 +1,7 @@
 # TacoGO – Restaurant Performance & Business Analysis Report (Jan 2024 - Dec 2025) 
+
+
 ![TacoGo-header](TacoGo-header1.png) 
-
-
 
 ## Executive Summary
 
@@ -28,7 +28,7 @@ For a delivery business, understanding customer demand, restaurant performance, 
 - Identify operational areas that may require improvement.
   
    ## Data Overview
-### The dashboard presents business data covering the following areas:
+   ### The dashboard presents business data covering the following areas:
 
 Data Area| Description
 Orders| Total orders and order growth
@@ -46,6 +46,8 @@ The dashboard includes a Home page for overall performance and a More Insight pa
 
 
 ## Dashboard
+
+![TacoGo-image](TacoGo-image.png)
 
 ### Link to Power BI Report
 Click the link to access the full Power BI report: [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDQ1MWMtOGY1ZC00ZmE5LWE2YzQtN2VkNWYwOWZjZTlmIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9) 
